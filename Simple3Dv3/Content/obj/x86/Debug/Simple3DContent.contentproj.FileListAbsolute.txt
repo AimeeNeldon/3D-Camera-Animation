@@ -1,0 +1,4 @@
+C:\Users\Serena\Desktop\XNA4-3D-Camera-Animation\3D-Camera-Animation\Simple3Dv3\Content\obj\x86\Debug\Simple3DContent.contentprojResolveAssemblyReference.cache
+Z:\design-studio-4\XNA4-3D-Camera-Animation\3D-Camera-Animation\Simple3Dv3\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aimeeneldon\Desktop\XNA4-3D-Camera-Animation\3D-Camera-Animation\Simple3Dv3\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aimeeneldon\Desktop\AimeeNeldon_Assignment2\3D-Camera-Animation\Simple3Dv3\Content\obj\x86\Debug\ResolveAssemblyReference.cache

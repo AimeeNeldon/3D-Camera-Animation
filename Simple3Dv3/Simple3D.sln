@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple3D", "Simple3D.csproj", "{DC5C5AB5-8C00-47B6-AAC7-6B68E824E646}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple3DContent", "Content\Simple3DContent.contentproj", "{9C85B0A7-E2DD-4E1D-98A7-8FF26B3E4D09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC5C5AB5-8C00-47B6-AAC7-6B68E824E646}.Debug|x86.ActiveCfg = Debug|x86
+		{DC5C5AB5-8C00-47B6-AAC7-6B68E824E646}.Debug|x86.Build.0 = Debug|x86
+		{DC5C5AB5-8C00-47B6-AAC7-6B68E824E646}.Release|x86.ActiveCfg = Release|x86
+		{DC5C5AB5-8C00-47B6-AAC7-6B68E824E646}.Release|x86.Build.0 = Release|x86
+		{9C85B0A7-E2DD-4E1D-98A7-8FF26B3E4D09}.Debug|x86.ActiveCfg = Debug|x86
+		{9C85B0A7-E2DD-4E1D-98A7-8FF26B3E4D09}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
